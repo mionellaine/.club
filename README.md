@@ -1,1 +1,1 @@
-# .club
+# free-study.club
